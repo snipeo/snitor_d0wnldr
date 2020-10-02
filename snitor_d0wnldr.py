@@ -11,7 +11,7 @@ def usage():
         3) Enjoy Your Results ^__^
 
                                                                                        Coded By Alae Larheribi
-                                                                        Email: snipeo.1998@gmail.com | Snî-PeO
+                                                                        Email: snipeo.1998@gmail.com
     *************************************************************************************************************
     '''
     print(message)
